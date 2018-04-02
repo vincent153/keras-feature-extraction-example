@@ -1,1 +1,1 @@
-keras_mnist_example
+simple example of classify and feature extractor
